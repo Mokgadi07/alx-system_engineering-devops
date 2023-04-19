@@ -1,2 +1,2 @@
 #!/bin/bash
-Best =("School")
+BEST="School" echo "BEST variable has been set to: $BEST"
